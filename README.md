@@ -1,0 +1,3 @@
+# Roll The Dice Game
+
+#### In the game, there are two players who take turns rolling a dice. Each player starts with a score of 0. When it's a player's turn, they can click the "Roll Dice" button to roll the dice. The number rolled on the dice is added to the player's current score. However, if a player rolls a 1, their current score is reset to 0, and it becomes the next player's turn. The player can also click the "Hold" button to add their current score to their total score and pass the turn to the other player. The game continues until one of the players reaches or exceeds a score of 100. If a player reaches the winning score, they are declared the winner, and the game ends. The "New Game" button can be clicked to start a new game with scores reset to 0.
